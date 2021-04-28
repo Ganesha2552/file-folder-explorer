@@ -1,6 +1,6 @@
 # file-folder-explorer
 
-Starting the file-folder-explorer follow the below steps;
+Starting the file-folder-explorer project in your machine follow the below steps:
 1) Clone / Download the repo
 2) Goto the home folder of the project via terminal and 
 #run the below command
