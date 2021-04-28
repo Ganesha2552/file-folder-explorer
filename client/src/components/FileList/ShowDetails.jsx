@@ -51,7 +51,7 @@ class ShowDetails extends Component {
         List of All Extension : 
         </Typography>
         <Typography variant="h5" component="h2">
-        {distinctExt.replace('no_extn',".")}
+        {distinctExt}
         </Typography>
         <Typography className={makeStyles.title} color="textSecondary" gutterBottom>
         Total Number of File with no extensions : 
