@@ -19,3 +19,6 @@ npm start
 
 Now the project will auto launch and you will able to see it.
 
+![preview of the project](https://github.com/Ganesha2552/file-folder-explorer/blob/master/file-folder-explorer.png)
+
+![preview2 of the project](https://github.com/Ganesha2552/file-folder-explorer/blob/master/sample1.png)
