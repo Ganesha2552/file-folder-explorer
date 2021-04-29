@@ -19,8 +19,8 @@ Starting the file-folder-explorer project in your machine follow the below steps
 
 Now the project will auto launch and you will able to see it.
 
-For [Demo](https://nodejs-folder-explorer.herokuapp.com)
->Disclaimers : This project is for interview and educational purposes. The Demo Link Host will be available still 1-MAY-2021
+[Demo](https://nodejs-folder-explorer.herokuapp.com) **
+>Disclaimers : This project is for interview and educational purposes. **The Demo Link Host will be available still 1-MAY-2021
 
 ![preview of the project](https://github.com/Ganesha2552/file-folder-explorer/blob/master/file-folder-explorer.png)
 
