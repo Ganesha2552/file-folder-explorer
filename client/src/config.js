@@ -1,9 +1,9 @@
 const port=process.env.PORT
 
-const host = 'https://folder-file-explorer.herokuapp.com';
+const host = 'http://localhost:80';
 
 export default {
-    url_list: `/fileexplorer/list`,
+    url_list: `${host}/fileexplorer/list`,
     url_get_content: `/fileexplorer/file/info`,
  
     actions: {
