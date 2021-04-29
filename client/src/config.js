@@ -1,4 +1,4 @@
-const host = 'http://localhost:80';
+const host = 'https://folder-file-explorer.herokuapp.com:33141';
 
 export default {
     url_list: `${host}/fileexplorer/list`,
